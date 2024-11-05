@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\QuanLyKhachHang\bin\Debug\QuanLyKhachHang.exe.config
+C:\Users\Admin\source\repos\QuanLyKhachHang\bin\Debug\QuanLyKhachHang.exe
+C:\Users\Admin\source\repos\QuanLyKhachHang\bin\Debug\QuanLyKhachHang.pdb
+C:\Users\Admin\source\repos\QuanLyKhachHang\obj\Debug\QuanLyKhachHang.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\QuanLyKhachHang\obj\Debug\QuanLyKhachHang.Properties.Resources.resources
+C:\Users\Admin\source\repos\QuanLyKhachHang\obj\Debug\QuanLyKhachHang.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\QuanLyKhachHang\obj\Debug\QuanLyKhachHang.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\QuanLyKhachHang\obj\Debug\QuanLyKhachHang.exe
+C:\Users\Admin\source\repos\QuanLyKhachHang\obj\Debug\QuanLyKhachHang.pdb
+C:\Users\Admin\source\repos\QuanLyKhachHang\obj\Debug\Add_Production.Form1.resources
